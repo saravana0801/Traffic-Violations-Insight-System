@@ -1,0 +1,21 @@
+# Core Data Processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Streamlit Dashboard
+streamlit==1.35.0
+streamlit-folium==0.20.0
+folium==0.16.0
+
+# MySQL Database
+sqlalchemy==2.0.30
+pymysql==1.1.1
+python-dotenv==1.0.1
+
+# Utilities
+tqdm==4.66.4
